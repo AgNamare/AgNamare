@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to build, lea
 - 🔭 I’m currently working on **full-stack web applications** using **React**, **Node.js**, and **MongoDB**.
 - 🌱 I’m learning **cloud computing** and **DevOps** to level up my infrastructure skills.
 - 🤝 I’m looking to collaborate on cool **open-source projects**.
-- 💬 Ask me about **JavaScript, React, Node.js, and M-Pesa integration**.
+- 💬 Ask me about **JavaScript, React, Node.js, and Mongoose**.
 - ⚡ Fun fact: I love exploring new tech and can spend hours solving puzzles.
 
 ---
