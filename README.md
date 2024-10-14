@@ -1,4 +1,4 @@
-# Hi there 👋, I'm AgNamare!
+# Hi there 👋, I'm Augustine Namare
 
 Welcome to my GitHub profile! I'm a passionate developer who loves to build, learn, and collaborate on awesome projects. Here's a bit about me and my work:
 
